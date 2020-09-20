@@ -298,6 +298,8 @@ img {
 }
 
 .team-list-name {
+	margin-top: 0px;
+	margin-bottom: 10px;
 	font-weight: var(--secondary-font-weight);
 	font-size: 16px;
 	line-height: 19px;
@@ -305,6 +307,8 @@ img {
 }
 
 .team-list-prof {
+	margin-top: 0px;
+	margin-bottom: 0px;
 	color: var(--sub-text-color);
 
 	font-weight: var(--main-font-weight);
